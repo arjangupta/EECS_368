@@ -2,7 +2,6 @@
  * Course: EECS 368
  * Filename: things-class.js
  * Author: Arjan Gupta
- * KU-ID: 2765670
  * Last Edit: 10/14/2015
  */
 

@@ -1,6 +1,5 @@
 /*
  * Author: Arjan Gupta
- * KU-ID: 2765670
  * Course: EECS 368
  * Homework #1
  */
