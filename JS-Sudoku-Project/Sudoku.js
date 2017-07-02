@@ -2,7 +2,6 @@
  * Course: EECS 368
  * File name: Sudoku.js
  * Author: Arjan Gupta
- * KU-ID: 2765670
  * Last Edit: 10/12/2015 
  */
 
