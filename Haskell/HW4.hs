@@ -1,5 +1,4 @@
 -- Author: Arjan Gupta
--- KU-ID: 2765670
 -- Date: 11/24/2015
 -- Purpose: HW#4, EECS 368 
 
