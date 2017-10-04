@@ -1,3 +1,1 @@
-# EECS 368
-
-Selected notes and code from EECS 368 - Programming Languages and Paradigms, taken at the University of Kansas.
+A Sudoku Solver in JavaScript, as well as some basic programs in the Haskell and Racket functional languages.
